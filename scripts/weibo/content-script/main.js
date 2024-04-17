@@ -7,7 +7,7 @@ const _pop = '.woo-pop-wrap-main'
 const _pop_item = '.woo-pop-item-main'
 const _modal_wrap = '.woo-modal-wrap'
 const _confirm_button = '.woo-button-primary'
-const _friend = '.woo-font--friend'
+const _friend = '.title_wrap_3e__u'
 const _left = '.woo-panel-left'
 
 let flag = 0
